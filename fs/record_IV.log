@@ -1,0 +1,72 @@
+
+Start!
+Mon Apr  1 10:42:01 2019
+%----------------------------------------------------------------------------------------------------%
+
+Done
+{'a': nan, 'b': nan, 'c': nan, 'd': nan}
+%{'a': {Interval(-inf, 5.05, closed='right'): nan, Interval(5.05, 5.45, closed='right'): nan, Interval(5.45, 5.65, closed='right'): nan, Interval(5.65, 6.25, closed='right'): nan, Interval(6.25, 7.05, closed='right'): nan, Interval(7.05, inf, closed='right'): nan}, 'b': {Interval(-inf, 2.45, closed='right'): nan, Interval(2.45, 2.85, closed='right'): nan, Interval(2.85, 2.95, closed='right'): nan, Interval(2.95, 3.15, closed='right'): nan, Interval(3.15, 3.35, closed='right'): nan, Interval(3.35, inf, closed='right'): nan}, 'c': {Interval(-inf, 2.45, closed='right'): nan, Interval(2.45, 4.45, closed='right'): nan, Interval(4.45, 4.75, closed='right'): nan, Interval(4.75, 5.05, closed='right'): nan, Interval(5.05, inf, closed='right'): nan}, 'd': {Interval(-inf, 0.8, closed='right'): nan, Interval(0.8, 1.35, closed='right'): nan, Interval(1.35, 1.75, closed='right'): nan, Interval(1.75, 1.85, closed='right'): nan, Interval(1.85, inf, closed='right'): nan}}%
+
+Start!
+Mon Apr  1 10:42:22 2019
+%----------------------------------------------------------------------------------------------------%
+
+Done
+{'a': nan, 'b': nan, 'c': nan, 'd': nan}
+%{'a': {Interval(-inf, 4.85, closed='right'): nan, Interval(4.85, 5.45, closed='right'): nan, Interval(5.45, 6.25, closed='right'): nan, Interval(6.25, inf, closed='right'): nan}, 'b': {Interval(-inf, 2.45, closed='right'): nan, Interval(2.45, 2.95, closed='right'): nan, Interval(2.95, 3.35, closed='right'): nan, Interval(3.35, inf, closed='right'): nan}, 'c': {Interval(-inf, 2.45, closed='right'): nan, Interval(2.45, 4.75, closed='right'): nan, Interval(4.75, inf, closed='right'): nan}, 'd': {Interval(-inf, 0.8, closed='right'): nan, Interval(0.8, 1.75, closed='right'): nan, Interval(1.75, inf, closed='right'): nan}}%
+
+Start!
+Mon Apr  1 10:42:28 2019
+%----------------------------------------------------------------------------------------------------%
+
+Done
+{'a': nan, 'b': nan, 'c': nan, 'd': nan}
+%{'a': {Interval(-inf, 5.05, closed='right'): nan, Interval(5.05, 5.45, closed='right'): nan, Interval(5.45, 5.65, closed='right'): nan, Interval(5.65, 6.25, closed='right'): nan, Interval(6.25, 7.05, closed='right'): nan, Interval(7.05, inf, closed='right'): nan}, 'b': {Interval(-inf, 2.45, closed='right'): nan, Interval(2.45, 2.85, closed='right'): nan, Interval(2.85, 2.95, closed='right'): nan, Interval(2.95, 3.15, closed='right'): nan, Interval(3.15, 3.35, closed='right'): nan, Interval(3.35, inf, closed='right'): nan}, 'c': {Interval(-inf, 2.45, closed='right'): nan, Interval(2.45, 4.45, closed='right'): nan, Interval(4.45, 4.75, closed='right'): nan, Interval(4.75, 5.05, closed='right'): nan, Interval(5.05, inf, closed='right'): nan}, 'd': {Interval(-inf, 0.8, closed='right'): nan, Interval(0.8, 1.35, closed='right'): nan, Interval(1.35, 1.75, closed='right'): nan, Interval(1.75, 1.85, closed='right'): nan, Interval(1.85, inf, closed='right'): nan}}%
+
+Start!
+Mon Apr  1 10:43:14 2019
+%----------------------------------------------------------------------------------------------------%
+
+Done
+{'a': nan, 'b': nan, 'c': nan, 'd': nan}
+%{'a': {Interval(-inf, 5.05, closed='right'): nan, Interval(5.05, 5.45, closed='right'): nan, Interval(5.45, 5.65, closed='right'): nan, Interval(5.65, 6.25, closed='right'): nan, Interval(6.25, 7.05, closed='right'): nan, Interval(7.05, inf, closed='right'): nan}, 'b': {Interval(-inf, 2.45, closed='right'): nan, Interval(2.45, 2.85, closed='right'): nan, Interval(2.85, 2.95, closed='right'): nan, Interval(2.95, 3.15, closed='right'): nan, Interval(3.15, 3.35, closed='right'): nan, Interval(3.35, inf, closed='right'): nan}, 'c': {Interval(-inf, 2.45, closed='right'): nan, Interval(2.45, 4.45, closed='right'): nan, Interval(4.45, 4.75, closed='right'): nan, Interval(4.75, 5.05, closed='right'): nan, Interval(5.05, inf, closed='right'): nan}, 'd': {Interval(-inf, 0.8, closed='right'): nan, Interval(0.8, 1.35, closed='right'): nan, Interval(1.35, 1.75, closed='right'): nan, Interval(1.75, 1.85, closed='right'): nan, Interval(1.85, inf, closed='right'): nan}}%
+
+Start!
+Mon Apr  1 10:44:34 2019
+%----------------------------------------------------------------------------------------------------%
+
+Done
+{'a': nan, 'b': nan, 'c': nan, 'd': nan}
+%{'a': {Interval(-inf, 5.05, closed='right'): nan, Interval(5.05, 5.45, closed='right'): nan, Interval(5.45, 5.65, closed='right'): nan, Interval(5.65, 6.25, closed='right'): nan, Interval(6.25, 7.05, closed='right'): nan, Interval(7.05, inf, closed='right'): nan}, 'b': {Interval(-inf, 2.45, closed='right'): nan, Interval(2.45, 2.85, closed='right'): nan, Interval(2.85, 2.95, closed='right'): nan, Interval(2.95, 3.15, closed='right'): nan, Interval(3.15, 3.35, closed='right'): nan, Interval(3.35, inf, closed='right'): nan}, 'c': {Interval(-inf, 2.45, closed='right'): nan, Interval(2.45, 4.45, closed='right'): nan, Interval(4.45, 4.75, closed='right'): nan, Interval(4.75, 5.05, closed='right'): nan, Interval(5.05, inf, closed='right'): nan}, 'd': {Interval(-inf, 0.8, closed='right'): nan, Interval(0.8, 1.35, closed='right'): nan, Interval(1.35, 1.75, closed='right'): nan, Interval(1.75, 1.85, closed='right'): nan, Interval(1.85, inf, closed='right'): nan}}%
+
+Start!
+Mon Apr  1 11:00:40 2019
+%----------------------------------------------------------------------------------------------------%
+
+Done
+{'a': 1.6757972995650001, 'b': 1.6791825466095602, 'c': 7.56877581730461, 'd': 7.940873059465689}
+%{'a': {Interval(-inf, 5.05, closed='right'): -1.575536360758419, Interval(5.05, 5.45, closed='right'): -1.0414538748281612, Interval(5.45, 5.65, closed='right'): 1.8971199848858813, Interval(5.65, 6.25, closed='right'): 1.0498221244986776, Interval(6.25, 7.05, closed='right'): 0.11332868530700327, Interval(7.05, inf, closed='right'): -5}, 'b': {Interval(-inf, 2.45, closed='right'): 2.1972245773362196, Interval(2.45, 2.85, closed='right'): 0.6931471805599453, Interval(2.85, 2.95, closed='right'): 1.540445040947149, Interval(2.95, 3.15, closed='right'): -0.1670540846631662, Interval(3.15, 3.35, closed='right'): -0.6286086594223742, Interval(3.35, inf, closed='right'): -2.8903717578961645}, 'c': {Interval(-inf, 2.45, closed='right'): -5, Interval(2.45, 4.45, closed='right'): 5, Interval(4.45, 4.75, closed='right'): 3.4011973816621555, Interval(4.75, 5.05, closed='right'): 0.22314355131420976, Interval(5.05, inf, closed='right'): -3.0204248861443626}, 'd': {Interval(-inf, 0.8, closed='right'): -5, Interval(0.8, 1.35, closed='right'): 5, Interval(1.35, 1.75, closed='right'): 2.128231705849268, Interval(1.75, 1.85, closed='right'): -1.7047480922384253, Interval(1.85, inf, closed='right'): -5}}%
+
+Start!
+Mon Apr  1 14:32:13 2019
+%----------------------------------------------------------------------------------------------------%
+
+Done
+{'a': 1.6757972995650001, 'b': 1.6791825466095602, 'c': 7.56877581730461, 'd': 7.940873059465689}
+%{'a': {Interval(-inf, 5.05, closed='right'): -1.575536360758419, Interval(5.05, 5.45, closed='right'): -1.0414538748281612, Interval(5.45, 5.65, closed='right'): 1.8971199848858813, Interval(5.65, 6.25, closed='right'): 1.0498221244986776, Interval(6.25, 7.05, closed='right'): 0.11332868530700327, Interval(7.05, inf, closed='right'): -5}, 'b': {Interval(-inf, 2.45, closed='right'): 2.1972245773362196, Interval(2.45, 2.85, closed='right'): 0.6931471805599453, Interval(2.85, 2.95, closed='right'): 1.540445040947149, Interval(2.95, 3.15, closed='right'): -0.1670540846631662, Interval(3.15, 3.35, closed='right'): -0.6286086594223742, Interval(3.35, inf, closed='right'): -2.8903717578961645}, 'c': {Interval(-inf, 2.45, closed='right'): -5, Interval(2.45, 4.45, closed='right'): 5, Interval(4.45, 4.75, closed='right'): 3.4011973816621555, Interval(4.75, 5.05, closed='right'): 0.22314355131420976, Interval(5.05, inf, closed='right'): -3.0204248861443626}, 'd': {Interval(-inf, 0.8, closed='right'): -5, Interval(0.8, 1.35, closed='right'): 5, Interval(1.35, 1.75, closed='right'): 2.128231705849268, Interval(1.75, 1.85, closed='right'): -1.7047480922384253, Interval(1.85, inf, closed='right'): -5}}%
+
+Start!
+Mon Apr  1 14:34:17 2019
+%----------------------------------------------------------------------------------------------------%
+
+Done
+{'a': 1.6757972995650001, 'b': 1.6791825466095602, 'c': 7.56877581730461, 'd': 7.940873059465689}
+%{'a': {Interval(-inf, 5.05, closed='right'): -1.575536360758419, Interval(5.05, 5.45, closed='right'): -1.0414538748281612, Interval(5.45, 5.65, closed='right'): 1.8971199848858813, Interval(5.65, 6.25, closed='right'): 1.0498221244986776, Interval(6.25, 7.05, closed='right'): 0.11332868530700327, Interval(7.05, inf, closed='right'): -5}, 'b': {Interval(-inf, 2.45, closed='right'): 2.1972245773362196, Interval(2.45, 2.85, closed='right'): 0.6931471805599453, Interval(2.85, 2.95, closed='right'): 1.540445040947149, Interval(2.95, 3.15, closed='right'): -0.1670540846631662, Interval(3.15, 3.35, closed='right'): -0.6286086594223742, Interval(3.35, inf, closed='right'): -2.8903717578961645}, 'c': {Interval(-inf, 2.45, closed='right'): -5, Interval(2.45, 4.45, closed='right'): 5, Interval(4.45, 4.75, closed='right'): 3.4011973816621555, Interval(4.75, 5.05, closed='right'): 0.22314355131420976, Interval(5.05, inf, closed='right'): -3.0204248861443626}, 'd': {Interval(-inf, 0.8, closed='right'): -5, Interval(0.8, 1.35, closed='right'): 5, Interval(1.35, 1.75, closed='right'): 2.128231705849268, Interval(1.75, 1.85, closed='right'): -1.7047480922384253, Interval(1.85, inf, closed='right'): -5}}%
+
+Start!
+Mon Apr  1 14:36:10 2019
+%----------------------------------------------------------------------------------------------------%
+
+Done
+{'a': 1.6757972995650001, 'b': 1.6791825466095602, 'c': 7.56877581730461, 'd': 7.940873059465689}
+%{'a': {Interval(-inf, 5.05, closed='right'): -1.575536360758419, Interval(5.05, 5.45, closed='right'): -1.0414538748281612, Interval(5.45, 5.65, closed='right'): 1.8971199848858813, Interval(5.65, 6.25, closed='right'): 1.0498221244986776, Interval(6.25, 7.05, closed='right'): 0.11332868530700327, Interval(7.05, inf, closed='right'): -5}, 'b': {Interval(-inf, 2.45, closed='right'): 2.1972245773362196, Interval(2.45, 2.85, closed='right'): 0.6931471805599453, Interval(2.85, 2.95, closed='right'): 1.540445040947149, Interval(2.95, 3.15, closed='right'): -0.1670540846631662, Interval(3.15, 3.35, closed='right'): -0.6286086594223742, Interval(3.35, inf, closed='right'): -2.8903717578961645}, 'c': {Interval(-inf, 2.45, closed='right'): -5, Interval(2.45, 4.45, closed='right'): 5, Interval(4.45, 4.75, closed='right'): 3.4011973816621555, Interval(4.75, 5.05, closed='right'): 0.22314355131420976, Interval(5.05, inf, closed='right'): -3.0204248861443626}, 'd': {Interval(-inf, 0.8, closed='right'): -5, Interval(0.8, 1.35, closed='right'): 5, Interval(1.35, 1.75, closed='right'): 2.128231705849268, Interval(1.75, 1.85, closed='right'): -1.7047480922384253, Interval(1.85, inf, closed='right'): -5}}%
